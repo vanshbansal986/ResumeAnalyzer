@@ -1,5 +1,33 @@
 # Resume Screening Automation with Generative AI
 
+# Table of Contents
+- [Resume Screening Automation with Generative AI](#resume-screening-automation-with-generative-ai)
+- [Table of Contents](#table-of-contents)
+  - [Project Overview](#project-overview)
+  - [Key Features](#key-features)
+  - [Results](#results)
+  - [How It Works](#how-it-works)
+    - [1. **Data Ingestion**](#1-data-ingestion)
+    - [2. **Batch Processing**](#2-batch-processing)
+    - [3. **Scoring and Ranking**](#3-scoring-and-ranking)
+  - [Evaluation Criteria](#evaluation-criteria)
+    - [Generative AI Integration](#generative-ai-integration)
+    - [Accuracy](#accuracy)
+    - [Batch Processing Efficiency](#batch-processing-efficiency)
+    - [Scalability](#scalability)
+    - [Creativity and Innovation](#creativity-and-innovation)
+    - [Output Quality](#output-quality)
+  - [Requirements](#requirements)
+  - [Setup Instructions](#setup-instructions)
+  - [Usage](#usage)
+  - [Output Example](#output-example)
+    - [You can view the output results of tested resumes in `artifacts/resume_analyze/data.xlsx`](#you-can-view-the-output-results-of-tested-resumes-in-artifactsresume_analyzedataxlsx)
+  - [Future Enhancements](#future-enhancements)
+  - [License](#license)
+  - [Acknowledgments](#acknowledgments)
+
+
+
 ## Project Overview
 This project demonstrates the power of Generative AI in automating resume screening, significantly reducing manual effort and improving the recruitment process. By parsing resumes, scoring them based on key fields, and processing multiple resumes in batches, the solution aims to streamline the shortlisting process while maintaining high accuracy and scalability.
 
@@ -14,7 +42,7 @@ The solution integrates GPT models (or equivalent) to complement data extraction
 - **Scalability**: Designed to efficiently process larger sets of resumes while maintaining speed and accuracy.
 
 ## Results
-Results can be viewed in [Results](artifacts/resume_analyze/data.xlsx)
+**Results can be viewed in [Results](artifacts/resume_analyze/data.xlsx)**
 
 ## How It Works
 
