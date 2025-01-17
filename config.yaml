@@ -1,0 +1,8 @@
+artifacts_root: artifacts
+
+resume_analyze:
+  root_dir: artifacts/resume_analyze
+  resume_folder_path: resumes
+  final_results_file_path: artifacts/resume_analyze/data.xlsx
+  system_prompt_path: system_prompts/system_prompt.txt
+  model_name: "gpt-4o-mini"
