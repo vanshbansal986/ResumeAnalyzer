@@ -89,7 +89,7 @@ The solution ensures that the output is logically structured, with consistent fo
 ## Setup Instructions
 1. Clone the repository:
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/vanshbansal986/ResumeAnalyzer
     ```
 2. Install dependencies:
     ```bash
